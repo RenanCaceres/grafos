@@ -2,7 +2,7 @@
 
 **Universidade Tecnológica Federal do Paraná (UTFPR)**  
 **Disciplina:** Estratégias de Programação 2026-02  
-**Professor:** Claydon Kossoski  
+**Professor:** Clayton Kossoski  
 **Tema:** Implementação de grafos em C  
 **Equipe:** Giovana Furlan, Renan Cáceres 
 
